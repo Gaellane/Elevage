@@ -1,0 +1,1 @@
+INSERT INTO farm_mouvement (type_mouvement) VALUES ('entree') , ('sortie');
